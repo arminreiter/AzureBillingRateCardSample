@@ -1,11 +1,11 @@
 # Azure Billing RateCard API Sample
-This is a sample application C# console application that uses the Azure Billing RateCard API. It reads the data from the API and creates a CSV file out of it.
+This is a sample C# console application that uses the Azure Billing RateCard API. It reads the data from the API and creates a CSV file out of it.
 
-The configuration is described in detail at my blog: [Export Azure RateCard data to CSV with C# and Billing API](https://codehollow.com/2016/12/export-azure-ratecard-data-csv-csharp-billing-api/)
+**Please find a mored detailed describtion at my blog: [Export Azure RateCard data to CSV with C# and Billing API](https://codehollow.com/2016/12/export-azure-ratecard-data-csv-csharp-billing-api/)**
 
-This is the quick guide:
+## Instructions:
 
-1. Modify the app.config
+1. Open and modify the app.config
    * Tenant (required)
    * SubscriptionId (required)
    * OfferDurableId 
@@ -28,4 +28,4 @@ This is the quick guide:
 # Troubleshooting
 
 Check out the troubleshooting section at my blog: https://codehollow.com/2016/12/export-azure-ratecard-data-csv-csharp-billing-api#troubleshoot
-or check the troubleshooting section of the Microsoft Sample: https://github.com/Azure-Samples/billing-dotnet-ratecard-api
+or check the troubleshooting section of this sample: https://github.com/Azure-Samples/billing-dotnet-ratecard-api
