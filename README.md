@@ -1,7 +1,7 @@
 # Azure Billing RateCard API Sample
 This is a sample C# console application that uses the Azure Billing RateCard API. It reads the data from the API and creates a CSV file out of it.
 
-**Please find a mored detailed describtion at my blog: [Export Azure RateCard data to CSV with C# and Billing API](https://codehollow.com/2016/12/export-azure-ratecard-data-csv-csharp-billing-api/)**
+**Please find a mored detailed description at my blog: [Export Azure RateCard data to CSV with C# and Billing API](https://codehollow.com/2016/12/export-azure-ratecard-data-csv-csharp-billing-api/)**
 
 ## Instructions
 
